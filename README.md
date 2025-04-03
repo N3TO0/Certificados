@@ -12,8 +12,7 @@
  |--------|--------------|
  | Comunidade Dev Completo | [Logica_de_Progrmação_Python](https://raw.githubusercontent.com/N3TO0/Certificados/refs/heads/main/Programação/Logica_de_Progrmação_Python_Git_GitHub-Comunidade-Dev-Completo.jfif) | 
  | DIO | [Introdução ao Python Com Suzano](https://raw.githubusercontent.com/N3TO0/Certificados/refs/heads/main/Ferramentas/Git_GitHub-Comunidade-Dev-Completo.jfif](https://github.com/N3TO0/Certificados/blob/main/Programação/Introdução_ao_Python_Com_Suzano.pdf)) | 
-  |  | [Versionamento de Código com Git e GitHub](https://www.dio.me/certificate/J11PAAZS/share) | 
-  |  | [Conhecendo a Linguagem de Programação Python](https://www.dio.me/certificate/NCAH4U0V/share) |
+ | DIO | [Conhecendo a Linguagem de Programação Python](https://www.dio.me/certificate/NCAH4U0V/share) |
 
 ## 🛠️ Ferramentas: 
 
@@ -23,6 +22,7 @@
 
  | Instituição | Certificados |
  |--------|--------------|
+ | DIO | [Versionamento de Código com Git e GitHub](https://www.dio.me/certificate/J11PAAZS/share) | 
  | Comunidade Dev Completo | [Git GitHub](https://raw.githubusercontent.com/N3TO0/Certificados/refs/heads/main/Ferramentas/Git_GitHub-Comunidade-Dev-Completo.jfif) | 
  | Udemy | [Automação de Processos](link2) | 
 
