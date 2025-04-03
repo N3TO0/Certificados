@@ -9,6 +9,13 @@
 - JavaScript
 - Lógica de Programação
 
+ | Instituição | Certificados |
+ |--------|--------------|
+ | Comunidade Dev Completo | [Git GitHub](https://raw.githubusercontent.com/N3TO0/Certificados/refs/heads/main/Ferramentas/Git_GitHub-Comunidade-Dev-Completo.jfif) | 
+ | Udemy | [Automação de Processos](link2) | 
+
+Logica_de_Progrmação_Python
+
 ## 🛠️ Ferramentas: 
 
 - Git
@@ -25,13 +32,29 @@
 - Django 
 - CSS Avançado
 
+ | Instituição | Certificados |
+ |--------|--------------|
+ | Comunidade Dev Completo | [Git GitHub](https://raw.githubusercontent.com/N3TO0/Certificados/refs/heads/main/Ferramentas/Git_GitHub-Comunidade-Dev-Completo.jfif) | 
+ | Udemy | [Automação de Processos](link2) | 
+ 
 ## 🗄️ Banco de Dados  
 - MySQL  
-- NoSQL  
+- NoSQL
+
+ | Instituição | Certificados |
+ |--------|--------------|
+ | Comunidade Dev Completo | [Git GitHub](https://raw.githubusercontent.com/N3TO0/Certificados/refs/heads/main/Ferramentas/Git_GitHub-Comunidade-Dev-Completo.jfif) | 
+ | Udemy | [Automação de Processos](link2) |
 
 ## 🎨 UI/UX Design  
 - Design de Interfaces  
 - Experiência do Usuário
+
+ | Instituição | Certificados |
+ |--------|--------------|
+ | Comunidade Dev Completo | [Git GitHub](https://raw.githubusercontent.com/N3TO0/Certificados/refs/heads/main/Ferramentas/Git_GitHub-Comunidade-Dev-Completo.jfif) | 
+ | Udemy | [Automação de Processos](link2) |
+
 
 ## 🖥️ Hardware e Manutenção  
 - Manutenção de Computadores e Equipamentos de Informática
