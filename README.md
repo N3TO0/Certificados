@@ -10,8 +10,8 @@
 
  | Instituição | Certificados |
  |--------|--------------|
- | Comunidade Dev Completo | [Logica_de_Progrmação_Python]() | 
- | DIO | [Introdução ao Python Com Suzano]() | 
+ | Comunidade Dev Completo | [Logica_de_Progrmação_Python](https://www.dio.me/certificate/NCAH4U0V/share) | 
+ | DIO | [Introdução ao Python Com Suzano](https://www.dio.me/certificate/WWY8M03S/share) | 
  | DIO | [Conhecendo a Linguagem de Programação Python](https://www.dio.me/certificate/NCAH4U0V/share) |
 
 ## 🛠️ Ferramentas: 
