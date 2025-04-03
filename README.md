@@ -1,6 +1,6 @@
 # Certificados
 
-Este repositório contém certificados dos cursos e treinamentos que concluí ao longo da minha jornada de aprendizado em desenvolvimento full stack. Aqui, organizo e compartilho minhas conquistas em áreas como:
+>Este repositório contém certificados dos cursos e treinamentos que concluí ao longo da minha jornada de aprendizado em desenvolvimento full stack. Aqui, organizo e compartilho minhas conquistas em áreas como:
 
 
 ## 💻 Programação
