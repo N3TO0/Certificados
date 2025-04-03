@@ -10,7 +10,7 @@
 
  | Instituição | Certificados |
  |--------|--------------|
- | Comunidade Dev Completo | [Logica_de_Progrmação_Python](https://raw.githubusercontent.com/N3TO0/Certificados/refs/heads/main/Programação/Logica_de_Progrmação_Python_Git_GitHub-Comunidade-Dev-Completo.jfif)) | 
+ | Comunidade Dev Completo | [Logica_de_Progrmação_Python](https://raw.githubusercontent.com/N3TO0/Certificados/refs/heads/main/Programação/Logica_de_Progrmação_Python_Git_GitHub-Comunidade-Dev-Completo.jfif) | 
  | DIO | [Introdução ao Python Com Suzano](https://raw.githubusercontent.com/N3TO0/Certificados/refs/heads/main/Ferramentas/Git_GitHub-Comunidade-Dev-Completo.jfif](https://github.com/N3TO0/Certificados/blob/main/Programação/Introdução_ao_Python_Com_Suzano.pdf)) | 
  
 
