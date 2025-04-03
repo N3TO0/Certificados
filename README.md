@@ -6,7 +6,6 @@
 ## 💻 Programação
 
 - Python
-- JavaScript
 - Lógica de Programação
 
  | Instituição | Certificados |
@@ -29,13 +28,11 @@ Logica_de_Progrmação_Python
 
 ## 📦 Frameworks & Tecnologias: 
 
-- Django 
-- CSS Avançado
 
  | Instituição | Certificados |
  |--------|--------------|
- | Comunidade Dev Completo | [Git GitHub](https://raw.githubusercontent.com/N3TO0/Certificados/refs/heads/main/Ferramentas/Git_GitHub-Comunidade-Dev-Completo.jfif) | 
- | Udemy | [Automação de Processos](link2) | 
+ |  |  | 
+ |  | []() | 
  
 ## 🗄️ Banco de Dados  
 - MySQL  
@@ -43,8 +40,8 @@ Logica_de_Progrmação_Python
 
  | Instituição | Certificados |
  |--------|--------------|
- | Comunidade Dev Completo | [Git GitHub](https://raw.githubusercontent.com/N3TO0/Certificados/refs/heads/main/Ferramentas/Git_GitHub-Comunidade-Dev-Completo.jfif) | 
- | Udemy | [Automação de Processos](link2) |
+ |  |  | 
+ |  | []() | 
 
 ## 🎨 UI/UX Design  
 - Design de Interfaces  
@@ -52,11 +49,16 @@ Logica_de_Progrmação_Python
 
  | Instituição | Certificados |
  |--------|--------------|
- | Comunidade Dev Completo | [Git GitHub](https://raw.githubusercontent.com/N3TO0/Certificados/refs/heads/main/Ferramentas/Git_GitHub-Comunidade-Dev-Completo.jfif) | 
- | Udemy | [Automação de Processos](link2) |
+ |  |  | 
+ |  | []() | 
 
 
 ## 🖥️ Hardware e Manutenção  
 - Manutenção de Computadores e Equipamentos de Informática
+
+ | Instituição | Certificados |
+ |--------|--------------|
+ | Udemy | [Manutenção de Computadores e Equipamentos de Informática](https://www.udemy.com/certificate/UC-971a3955-82ba-4c33-bfeb-1b149b009b33/) | 
+ |  | []() | 
 
 **🚀 Sempre em busca de novos desafios e aprimoramento contínuo!**
