@@ -26,6 +26,9 @@ Este repositório contém certificados dos cursos e treinamentos que concluí ao
 
 ## 🎨 UI/UX Design  
 - Design de Interfaces  
-- Experiência do Usuário 
+- Experiência do Usuário
+
+## 🖥️ Hardware e Manutenção  
+- Manutenção de Computadores e Equipamentos de Informática
 
 **🚀 Sempre em busca de novos desafios e aprimoramento contínuo!**
