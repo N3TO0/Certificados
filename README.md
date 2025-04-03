@@ -1,12 +1,31 @@
 # Certificados
+
 Este repositório contém certificados dos cursos e treinamentos que concluí ao longo da minha jornada de aprendizado em desenvolvimento full stack. Aqui, organizo e compartilho minhas conquistas em áreas como:
 
-Programação: Python, JavaScript, Lógica de Programação
 
-Ferramentas: Git, GitHub, Automação de Processos
+## 💻 Programação
 
-Frameworks & Tecnologias: Django, CSS Avançado
+- Python
+- JavaScript
+- Lógica de Programação
 
-Outros conhecimentos: Banco de Dados, UI/UX Design
+## 🛠️ Ferramentas: 
 
-🚀 Sempre em busca de novos desafios e aprimoramento contínuo!
+- Git
+- GitHub
+- Automação de Processos
+
+## 📦 Frameworks & Tecnologias: 
+
+- Django 
+- CSS Avançado
+
+## 🗄️ Banco de Dados  
+- MySQL  
+- NoSQL  
+
+## 🎨 UI/UX Design  
+- Design de Interfaces  
+- Experiência do Usuário 
+
+**🚀 Sempre em busca de novos desafios e aprimoramento contínuo!**
