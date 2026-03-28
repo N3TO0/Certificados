@@ -18,19 +18,17 @@
 
 - Git
 - GitHub
-- Automação de Processos
 
  | Instituição | Certificados |
  |--------|--------------|
  | DIO | [Versionamento de Código com Git e GitHub](https://www.dio.me/certificate/J11PAAZS/share) | 
  | Comunidade Dev Completo | [Git GitHub](https://raw.githubusercontent.com/N3TO0/Certificados/refs/heads/main/Ferramentas/Git_GitHub-Comunidade-Dev-Completo.jfif) | 
- | Udemy | [Automação de Processos](link2) | 
 
 ## 📦 Frameworks & Tecnologias: 
 
  | Instituição | Certificados |
  |--------|--------------|
- |  |  | 
+ |  | []() | 
  |  | []() | 
  
 ## 🗄️ Banco de Dados  
@@ -53,6 +51,5 @@
  | Instituição | Certificados |
  |--------|--------------|
  | Udemy | [Manutenção de Computadores e Equipamentos de Informática](https://www.udemy.com/certificate/UC-971a3955-82ba-4c33-bfeb-1b149b009b33/) | 
- |  | []() | 
 
 **🚀 Sempre em busca de novos desafios e aprimoramento contínuo!**
