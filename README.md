@@ -8,8 +8,8 @@
 
 | Instituição | Formação | Carga Horária | Credencial / Comprovante |
 | :--- | :--- | :---: | :---: |
-| **Softex / CEPEDI / MCTI** | Trilha Back-End com Python | 400h | [Ver Certificado](./formacoes/formacao-back-end-softecx.pdf) |
-| **INOVA-SE / MCTI** | Desenvolvedor Júnior Full Stack | 600h | [Ver Certificado](./formacoes/formacao-dev-junior-jovemtech.pdf) |
+| **Softex / CEPEDI / MCTI** | Trilha Back-End com Python | 400h | [Ver Certificado](https://github.com/N3TO0/Certificados/blob/main/formacoes/formacao-banck-end.pdf) |
+| **INOVA-SE / MCTI** | Desenvolvedor Júnior Full Stack | 600h | [Ver Certificado](https://github.com/N3TO0/Certificados/blob/main/formacoes/formacao-desenvolvedor-junior.pdf) |
 
 ---
 
