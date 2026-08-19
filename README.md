@@ -43,7 +43,7 @@
 
 | Instituição | Formação | Carga Horária | Credencial / Comprovante |
 | :--- | :--- | :---: | :---: |
-| **Udemy** | Manutenção de Computadores e Equipamentos de Informática | — | [Visualizar](https://www.udemy.com/certificate/UC-971a3955-82ba-4c33-bfeb-1b149b009b33/) |
+| **Udemy** | Manutenção de Computadores e Equipamentos de Informática | 27h | [Visualizar](https://www.udemy.com/certificate/UC-971a3955-82ba-4c33-bfeb-1b149b009b33/) |
 
 ---
 
