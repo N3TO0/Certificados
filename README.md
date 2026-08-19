@@ -1,55 +1,50 @@
-# Certificados
+# 🎓 Meus Certificados & Formações
 
->Este repositório contém certificados dos cursos e treinamentos que concluí ao longo da minha jornada de aprendizado como *Desenvolvedor* e *Estudante Universitario*. Aqui, organizo e compartilho minhas conquistas em áreas como:
+> Repositório dedicado ao armazenamento e comprovação das minhas certificações, cursos livres e formações acadêmicas.
 
+---
 
-## 💻 Programação
+## 💻 Formações Intensivas & Bootcamps
 
-- Python
-- Lógica de Programação
+| Instituição | Formação | Carga Horária | Credencial / Comprovante |
+| :--- | :--- | :---: | :---: |
+| **Softex / CEPEDI / MCTI** | Trilha Back-End com Python | 400h | [Ver Certificado](./formacoes/formacao-back-end-softecx.pdf) |
+| **INOVA-SE / MCTI** | Desenvolvedor Júnior Full Stack | 600h | [Ver Certificado](./formacoes/formacao-dev-junior-jovemtech.pdf) |
 
- | Instituição | Certificados |
- |--------|--------------|
- | Comunidade Dev Completo | [Logica de Progrmação Python](https://raw.githubusercontent.com/N3TO0/Certificados/refs/heads/main/Programação/Logica_de_Progrmação_Python-Comunidade-Dev-Completo.jfif) | 
- | DIO | [Introdução ao Python Com Suzano](https://www.dio.me/certificate/WWY8M03S/share) | 
- | DIO | [Conhecendo a Linguagem de Programação Python](https://www.dio.me/certificate/NCAH4U0V/share) |
+---
 
-## 🛠️ Ferramentas: 
+## 🐍 Back-End & Python (Alura)
 
-- Git
-- GitHub
+| Instituição | Formação / Carreira | Progresso | Credencial |
+| :--- | :--- | :---: | :---: |
+| **Alura** | Desenvolvimento Back-End com Python | 23% | *Em andamento* |
 
- | Instituição | Certificados |
- |--------|--------------|
- | DIO | [Versionamento de Código com Git e GitHub](https://www.dio.me/certificate/J11PAAZS/share) | 
- | Comunidade Dev Completo | [Git GitHub](https://raw.githubusercontent.com/N3TO0/Certificados/refs/heads/main/Ferramentas/Git_GitHub-Comunidade-Dev-Completo.jfif) | 
+---
 
-## 📦 Frameworks & Tecnologias: 
+## ⚛️ Front-End & React (Alura)
 
- | Instituição | Certificados |
- |--------|--------------|
- |  | []() | 
- |  | []() | 
- 
-## 🗄️ Banco de Dados  
+| Instituição | Formação / Carreira | Progresso | Credencial |
+| :--- | :--- | :---: | :---: |
+| **Alura** | Desenvolvimento Front-End com React | 5% | *Em andamento* |
 
- | Instituição | Certificados |
- |--------|--------------|
- |  |  | 
- |  | []() | 
+---
 
-## 🎨 UI/UX Design  
+## 🎨 UI/UX & Design de Interfaces (Alura)
 
- | Instituição | Certificados |
- |--------|--------------|
- |  |  | 
- |  | []() | 
+| Instituição | Formação / Carreira | Progresso | Credencial |
+| :--- | :--- | :---: | :---: |
+| **Alura** | Formação UI Design | 0% | *Em andamento* |
 
-## 🖥️ Hardware e Manutenção  
-- Manutenção de Computadores e Equipamentos de Informática
+---
 
- | Instituição | Certificados |
- |--------|--------------|
- | Udemy | [Manutenção de Computadores e Equipamentos de Informática](https://www.udemy.com/certificate/UC-971a3955-82ba-4c33-bfeb-1b149b009b33/) | 
+## 🖥️ Hardware e Manutenção
+
+* Manutenção de Computadores e Equipamentos de Informática
+
+| Instituição | Formação | Carga Horária | Credencial / Comprovante |
+| :--- | :--- | :---: | :---: |
+| **Udemy** | Manutenção de Computadores e Equipamentos de Informática | — | [Visualizar](https://www.udemy.com/certificate/UC-971a3955-82ba-4c33-bfeb-1b149b009b33/) |
+
+---
 
 **🚀 Sempre em busca de novos desafios e aprimoramento contínuo!**
