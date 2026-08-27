@@ -25,7 +25,7 @@
 
 | Instituição | Formação / Carreira | Progresso | Credencial |
 | :--- | :--- | :---: | :---: |
-| **Alura** | Desenvolvimento Front-End com React | 5% | *Em andamento* |
+| **Alura** | Desenvolvimento Front-End com React | 7% | *Em andamento* |
 
 ---
 
